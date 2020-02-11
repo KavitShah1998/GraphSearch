@@ -12,7 +12,7 @@ The above presented graph is stored in an 'Adjacency_List'
 
 Represent your graph and list the data of the nodes in the vertices array 
 
-![](/images/Vertices/JPG)
+![](/images/Vertices.v4/JPG)
 
 The index number of each vertice is used to refer the node in the algorithm
 
