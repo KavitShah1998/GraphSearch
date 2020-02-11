@@ -29,12 +29,12 @@ Adjacency_list = { {1,2},
                  
 Once done, create objects to the class and call the method SearchNode() with the Start node data and End Node Data as arguments
 
-'''
+...
 
 class_name Object1;
 Object1.SearchNode(int startnode, int searchnode);
+...
 
-'''
 After calling the SearchNode method, you can call the algorithm implementation methods: [either BFS() or DFS()] and run the code.
 
 The output displays the node data in the order it traverses them and if the 'search_node' was found or not.
