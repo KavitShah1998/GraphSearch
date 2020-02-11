@@ -12,7 +12,7 @@ The above presented graph is stored in an 'Adjacency_List'
 
 Represent your graph and list the data of the nodes in the vertices array 
 
-![](/images/Vertices.jpg)
+![](/images/Vertices/JPG)
 
 The index number of each vertice is used to refer the node in the algorithm
 
@@ -29,11 +29,10 @@ Adjacency_list = { {1,2},
                  
 Once done, create objects to the class and call the method SearchNode() with the Start node data and End Node Data as arguments
 
-...
-
+```
 class_name Object1;
 Object1.SearchNode(int startnode, int searchnode);
-...
+```
 
 After calling the SearchNode method, you can call the algorithm implementation methods: [either BFS() or DFS()] and run the code.
 
